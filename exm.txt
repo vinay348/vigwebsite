@@ -1,0 +1,347 @@
+<h1 style="text-align: center;"> programs Offered</h1>
+<div class="main">
+        <div class="container">
+            <div class="card" style="--clr: #009688">
+                <div class="img-box">
+                    <img
+                        src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80">
+                     
+                </div>
+                <div class="content">
+                    <h2>UG COURSES</h2>
+                    <p>
+                        <div class="row">
+                               
+
+                            <ul>
+                                <li><a href="../agri.php">Agriculture Engineering</a></li>
+                                <!--<li><a href="../automobilecourse.php">Automobile Engineering</a></li>-->
+                                <li><a href="../biotechcourse.php">Biotechnology</a></li>
+                                <li><a href="../bioinformaticscourse.php">Bioinformatics</a></li>
+                                <!--<li><a href="../biotechcourse.php">Biotechnology</a></li>-->
+                                <li><a href="../biomedical.php">Biomedical Engineering</a></li>
+                                <li><a href="../civilcourse.php">Civil Engineering</a></li>
+                                <li><a href="../chemcourse.php">Chemical Engineering</a></li>
+                                <li><a href="../csecourse.php">CSE</a></li>
+                                <li><a href="../aimlcourse.php">CSE-AIML</a></li>
+                                <li><a href="../cscourse.php">CSE-CS</a></li>
+                                <li><a href="../csbscourse.php">CSE-CSBS</a></li>
+                                
+                                
+                                
+                                    <li><a href="../csehome.php">CSE-Data Science(2022-23 Onwards)</a></li>
+                                    <li><a href="../itcourse.php">IT</a></li>
+                                    <li><a href="../ececourse.php">ECE</a></li>
+                                    <li><a href="../eeecourse.php">EEE</a></li>
+                                        
+                                    <!--<ol> <a href="../ecmcourse.php">Electronics & Computer Engineering</a> </ol> -->	
+                                    
+                                    <li><a href="../foodcourse.php">Food Tech.</a></li>
+                                    <li><a href="../mechanicalcourse.php">Mechanical Engineering.</a>  </li>
+                            
+                                <!--<ol> <a href="../itcourse.php">Information Technology</a> </ol>-->
+                                    
+                                    <li><a href="../roboticscourse.php">Robotics and Automation Engineering.</a></li>  
+                                    <li><a href="../textiletechnology.php">Textile Technology</a></li>
+                                    
+                                
+                            </ul>
+
+
+                                                               
+                                               
+                                               
+                          </div>
+                    </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+        </div>
+    
+
+
+            <div class="container">
+                <div class="card" style="--clr: #009688">
+                    <div class="img-box">
+                        <img
+                            src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80">
+                   
+                    </div>
+                    <div class="content">
+                        <h2>PG COURSES</h2>
+                        <p>
+                            <div class="row">
+
+
+
+
+                                <ul>
+                                    <h5><font color="#ff6200"><b>M.Tech Programmes</b></font></h5><br>
+                                <li><a href="../embeddedcourse.php">Embedded Systems </a>  </li>
+                                <li><a href="../vlsicourse.php">VLSI Design </a> </li>
+                                <li><a href="../mtechcsecourse.php">CSE </a> </li>
+                                <li><a href="../powerelcourse.php">Power Electronics &amp; drives </a>  </li>
+                                    <li><a href="../mtechfood.php">Food&nbsp;Processing  Technology </a></li>
+                                <li><a href="../machinedesigncourse.php">Machine Design  </a>  </li>
+                                      <li><a href="../biotechmtechcourse.php">Biotechnology </a> </li>
+                                    <li><a href="../mtechfarmcourse.php">Farm Machinery  </a>  </li> 
+                                   <li><a href="../civilcoursepg.php">Structural Engineering </a> </li><br><br>
+                                    
+                                   <h5><font color="#ff6200"><b>Professional PG Programmes</b></font></h5><br>
+                                       
+                                           
+                                           <li><a href="../mbacourse.php">Master of Business Administration </a>  </li>
+                                           <li><a href="../mcacourse.php">Master of Computer Applications </a>  </li>
+                                           <li><a href="../maengcourse.php">Master of Arts (English) </a>  </li>
+                                           <li><a href="../msccourse.php">Master of Science (Chemistry , Organic Chemistry) </a>  </li>
+</ul>
+</div>
+                                                   
+                              
+                        </p>
+                        <a href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="card" style="--clr: #009688">
+                    <div class="img-box">
+                        <img
+                            src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80">
+                    </div>
+                    <div class="content">
+                        <h2>OTHER UG COURSES</h2>
+                        <p>
+                            <div class="row">
+                               
+                                
+                                <ul>
+                                    <li> <a href="../pharmacy.php">B.Pharmacy</a></li>
+                                  <li>  <a href="../bbacourse.php">BBA</a></li>
+                                       <li> <a href="../bcacourse.php">BCA</a></li>
+                                          <li>  <a href="../bcacourse.php">B.Sc</a></li>
+                                            <li><a href="../ug.php">B.Sc(Hons)Agriculture</a></li>
+                                            <li> <a href="../ballb.php">BA.LL.B</a></li>
+                                            <li><a href="../ballb.php">BBA.LL.B</a></li>
+                                </ul>
+                                                                
+
+                                                   </div>
+                                                   
+                             
+                        </p>
+                        <a href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div><br><br>
+        
+
+
+
+
+
+
+
+        <footer id="footer">
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="footer-info">
+                                <img src="../admissions-2022/assets/img/vignan logo square.png" height="160px;" alt="">
+                                <div class="social-links mt-3">
+                                    <a href="#" class="twitter" title="Twitter"><i class="bx bxl-twitter"></i></a>
+                                    <a href="#" class="facebook" title="Facebook"><i class="bx bxl-facebook"></i></a>
+                                    <a href="#" class="instagram" title="Instagram"><i class="bx bxl-instagram"></i></a>
+                                    <a href="#" class="google-plus" title="Skype"><i class="bx bxl-skype"></i></a>
+                                    <a href="#" class="linkedin" title="LinkedIn"><i class="bx bxl-linkedin"></i></a>
+                                </div>
+                                <br>
+                                <p>
+                                    Vignan's Foundation for Science, Technology and Research (Deemed to be University),
+                                    Vadlamudi, Guntur-522213<br><br>
+                                    <strong>Phone:</strong> 7799 427 427<br>
+                                    <strong>Email:</strong> admissions@vignan.ac.in<br>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <section class="cta1">
+                                <div class="text-center">
+                                    <a class="cta-btn scrollto" href="#apply">Apply Now</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="container">
+                <div class="footer-bottom">
+                    © Copyright <span>VFSTR 2022</span>. All Rights Reserved
+                </div>
+            </div>
+        </footer>
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px 50px;
+    padding: 10px 10px;
+}
+
+.container .card {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 250px;
+    max-width: 100%;
+    height: 250px;
+    background: white;
+    border-radius: 20px;
+    transition: 0.5s;
+    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
+    transition: 0.5s;
+    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
+}
+
+.container .card:hover {
+    height: 800px;
+    width: 400px;
+}
+
+.container .card .img-box {
+    position: absolute;
+    top: 20px;
+    width: 250px;
+    height: 220px;
+    background: #000000;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.container .card:hover .img-box {
+    top: -100px;
+    scale: 0.75;
+    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.2);
+}
+
+.container .card .img-box img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.container .card .content {
+    position: absolute;
+    top: 252px;
+    width: 100%;
+    height: 35px;
+    padding: 0 30px;
+    text-align: center;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.container .card:hover .content {
+    top: 130px;
+    height: fit-content;
+}
+
+.container .card .content h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--clr);
+}
+
+.container .card .content p {
+    color: #333;
+}
+
+.container.card.content a{
+    position:relative;
+    top:15px;
+    display:inline-block;
+    padding:12px 25px;
+    text-decoration:none;
+    background:var(--car);
+    color:white;
+    font-weight:100;
+
+}
+.container.card.content a:hover{
+    opacity:0.8;
+    background-color:#000000;
+    color:aqua;
+
+}
+@media(max-width:380px){
+    .container.card{
+        width:80px;
+        border-radius:15px;
+    }
+    .container.card.img-box{
+        width:85px;
+        border-radius:10px;
+
+    }
+
+    .container .card .img-box {
+        width: 80px;
+        border-radius: 10px;
+    }
+
+    .container .card .content p {
+        font-size: 0.8rem;
+    }
+
+    .container .card .content a {
+        font-size: 0.9rem;
+    }
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100hv;
+    background-color: aqua;
+}
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.main {
+    animation: fadeInUp 1s ease;
+}
+
